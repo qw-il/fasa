@@ -1,0 +1,5 @@
+face_landmarker.task
+MediaPipe Face Landmarker, float16, model version 1
+https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task
+Licensed under the Apache License, Version 2.0.
+The weights run in the browser. Photos are not uploaded.
